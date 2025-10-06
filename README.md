@@ -1,2 +1,0 @@
-# ekinrl
-web
